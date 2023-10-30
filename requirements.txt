@@ -1,0 +1,9 @@
+flask-JWT-Extended
+flask-sqlalchemy
+sqlalchemy
+python-dotenv
+flask-restful
+Flask==2.1.0
+mysql-connector-python==8.0.27
+bcrypt==3.2.0
+Werkzeug==2.0.1
